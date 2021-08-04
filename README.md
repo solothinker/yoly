@@ -11,5 +11,6 @@ These are following link that helps me to understand YOLO
 * [Paper](https://arxiv.org/pdf/1506.02640)
 * [Course](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
 * [Others](https://www.youtube.com/watch?v=GGeF_3QOHGE&list=PLMoSUbG1Q_r8nz4C5Yvd17KaXy8p0ufPH&index=1)
+* [Ted talks](https://youtu.be/Cgxsv1riJhI)
 
 
